@@ -1,0 +1,14 @@
+div{
+  display: flex;
+  color: blue;
+  justify-content: center;
+}
+p{
+  display: flex;
+  color: cyan;
+  justify-content: center;
+}
+body{
+  width: 100px;
+  height: 100px;
+}
